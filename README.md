@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently learning how to code!
+Ask me about my recent trip to Rome.
+Fun fact: I'm working on learning how to bake.
